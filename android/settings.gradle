@@ -1,0 +1,3 @@
+rootProject.name = 'erik_react'
+
+include ':app'
